@@ -8,7 +8,7 @@ SMS verification is a check that you can receive a text at the phone number you 
 
 - The code is a one-time passcode (OTP). It works once and expires, often within 5 to 10 minutes.
 - It shows that you control a phone number. It doesn't prove who you are.
-- Codes can come from a regular long number, an alphanumeric sender name, or a 5–6 digit short code.
+- Codes can come from a regular long number, an alphanumeric sender name, or a 5 to 6 digit short code.
 - Many security bodies treat SMS as a weaker factor than authenticator apps or passkeys, so it's often used for sign-up and recovery rather than high-risk actions.
 
 ## Step 1: You enter a phone number

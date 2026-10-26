@@ -20,8 +20,21 @@ GetVerifyCode Guides (site)
     └── content: ./guides
         ├── README.md
         ├── SUMMARY.md
-        └── how-sms-verification-works.md
+        ├── how-sms-verification-works.md
+        ├── when-otp-sms-does-not-arrive.md
+        └── testing-sms-otp-before-launch.md
 ```
+
+## Space branding (GitBook UI)
+
+Git Sync only ships Markdown. In the GitBook space settings, set:
+
+1. Space title: **GetVerifyCode Guides**
+2. Logo: GetVerifyCode wordmark or mark (same as the live site)
+3. Primary color: `#3f72af` (product accent)
+4. Hide any leftover onboarding / “getting started with GitBook” pages
+
+Without those, the public site still looks like a default GitBook template even when content is solid.
 
 ## Verify after publish
 
