@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: GetVerifyCode Guides
+  structure:
+    - type: space
+      key: space-guides
+      title: Guides
+      path: guides
+      default: true
+      content:
+        directory: ./guides
