@@ -11,6 +11,9 @@ These pages are written for engineers, QA, and product teams who ship phone chec
 | [How SMS Verification Works](./how-sms-verification-works.md) | Anyone who needs the end-to-end path from number entry to code validation |
 | [When the OTP SMS Does Not Arrive](./when-otp-sms-does-not-arrive.md) | Support, QA, and builders debugging missed codes |
 | [Testing SMS OTP Before Launch](./testing-sms-otp-before-launch.md) | Teams that need a release checklist with real inbound SMS |
+| [Checking a WhatsApp Code in QA](./checking-whatsapp-codes-in-qa.md) | A single WhatsApp code request, including what to record when the number is refused |
+| [Testing a Google Verification SMS](./testing-google-verification-sms.md) | Sign-in, recovery, and 2-step text codes, with timestamps and resend checks |
+| [Reading a Verification Code from the API](./reading-a-verification-code-from-the-api.md) | Quote, buy, and poll without watching a handset |
 
 ## Related
 

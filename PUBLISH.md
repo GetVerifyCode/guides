@@ -22,7 +22,10 @@ GetVerifyCode Guides (site)
         ├── SUMMARY.md
         ├── how-sms-verification-works.md
         ├── when-otp-sms-does-not-arrive.md
-        └── testing-sms-otp-before-launch.md
+        ├── testing-sms-otp-before-launch.md
+        ├── checking-whatsapp-codes-in-qa.md
+        ├── testing-google-verification-sms.md
+        └── reading-a-verification-code-from-the-api.md
 ```
 
 ## Space branding (GitBook UI)
