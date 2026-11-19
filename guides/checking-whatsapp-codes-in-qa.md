@@ -19,7 +19,7 @@ If WhatsApp refuses the number, record the refusal and stop. That is a platform 
 ## Before you request a code
 
 1. Pick a number your team controls for this test.
-2. Write it in E.164, for example `+14155550100`.
+2. Write it in E.164, for example +14155550100.
 3. Confirm the country picker and the dialing code describe that same number.
 4. Plan one request, then at most one resend after the cooldown.
 
